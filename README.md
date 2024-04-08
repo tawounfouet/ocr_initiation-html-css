@@ -9,3 +9,5 @@ Vous rêvez d'apprendre à créer des sites web ? Débutez avec ce cours qui vou
 
 
 cours : https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3 
+
+![image](https://github.com/tawounfouet/ocr_initiation-html-css/assets/78394330/2a5397e0-6724-48e2-b68d-64d6a949fec6)
